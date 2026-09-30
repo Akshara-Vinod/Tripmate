@@ -129,10 +129,13 @@ function TripDetails() {
         totalActualExpenses = totalActualExpenses + Number(expenses[i].amount)
     }
 
-    let remainingBudget = 0
-    if (trip && itinerary) {
-        remainingBudget = Number(trip.budget) - Number(itinerary.totalCost)
-    }
+    let totalSpent = 0
+let remainingBudget = 0
+
+if (trip && itinerary) {
+    totalSpent = Number(itinerary.totalCost) + totalActualExpenses
+    remainingBudget = Number(trip.budget) - totalSpent
+}
 
     return (
         <div style={{ minHeight: '100vh', backgroundImage: "linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)), url('https://happay.com/blog/wp-content/uploads/sites/12/2022/09/Business-Travel-Management-_1_-scaled-1.webp')", backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundAttachment: 'fixed', paddingLeft: '5%', paddingRight: '5%' }}>
@@ -186,7 +189,7 @@ function TripDetails() {
                                             <h5 className="fw-bold">₹{itinerary.totalCost}</h5>
                                         </div>
                                         <div className="col-sm-6">
-                                            <p className="text-secondary mb-1">Actual Expenses</p>
+                                            <p className="text-secondary mb-1">Extra Expenses</p>
                                             <h5 className="fw-bold">₹{totalActualExpenses}</h5>
                                         </div>
                                         <div className="col-sm-6">
