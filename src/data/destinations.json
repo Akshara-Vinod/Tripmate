@@ -1,0 +1,1232 @@
+{
+  "Munnar": [
+    {
+      "name": "Munnar Tea Museum",
+      "location": "Munnar",
+      "activity": "Visit Munnar Tea Museum and explore its attractions and surroundings",
+      "cost": 150,
+      "type": "Culture",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Mattupetty Dam",
+      "location": "Munnar",
+      "activity": "Visit Mattupetty Dam and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Adventure",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Echo Point",
+      "location": "Munnar",
+      "activity": "Visit Echo Point and explore its attractions and surroundings",
+      "cost": 150,
+      "type": "Adventure",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Eravikulam National Park",
+      "location": "Munnar",
+      "activity": "Visit Eravikulam National Park and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Top Station",
+      "location": "Munnar",
+      "activity": "Visit Top Station and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Nature",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Tea Garden",
+      "location": "Munnar",
+      "activity": "Visit Tea Garden and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Nature",
+      "time": "04:30 PM"
+    },
+    {
+      "name": "Kundala Lake",
+      "location": "Munnar",
+      "activity": "Visit Kundala Lake and explore its attractions and surroundings",
+      "cost": 150,
+      "type": "Relaxation",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Attukad Waterfalls",
+      "location": "Munnar",
+      "activity": "Visit Attukad Waterfalls and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Nature",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Pothamedu View Point",
+      "location": "Munnar",
+      "activity": "Visit Pothamedu View Point and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Blossom Park",
+      "location": "Munnar",
+      "activity": "Visit Blossom Park and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Relaxation",
+      "time": "04:00 PM"
+    }
+  ],
+  "Paris": [
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris",
+      "activity": "Visit Eiffel Tower and explore its attractions and surroundings",
+      "cost": 2500,
+      "type": "Sightseeing",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Louvre Museum",
+      "location": "Paris",
+      "activity": "Visit Louvre Museum and explore its attractions and surroundings",
+      "cost": 1800,
+      "type": "Culture",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Notre-Dame Cathedral",
+      "location": "Paris",
+      "activity": "Visit Notre-Dame Cathedral and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Seine River",
+      "location": "Paris",
+      "activity": "Visit Seine River and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Montmartre",
+      "location": "Paris",
+      "activity": "Visit Montmartre and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "Culture",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Arc de Triomphe",
+      "location": "Paris",
+      "activity": "Visit Arc de Triomphe and explore its attractions and surroundings",
+      "cost": 1000,
+      "type": "History",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Musée d'Orsay",
+      "location": "Paris",
+      "activity": "Visit Musée d'Orsay and explore its attractions and surroundings",
+      "cost": 1600,
+      "type": "Culture",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Luxembourg Gardens",
+      "location": "Paris",
+      "activity": "Visit Luxembourg Gardens and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "location": "Paris",
+      "activity": "Visit Sainte-Chapelle and explore its attractions and surroundings",
+      "cost": 900,
+      "type": "History",
+      "time": "01:00 PM"
+    },
+    {
+      "name": "Champs-Élysées",
+      "location": "Paris",
+      "activity": "Visit Champs-Élysées and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "04:30 PM"
+    }
+  ],
+  "Kochi": [
+    {
+      "name": "Fort Kochi",
+      "location": "Kochi",
+      "activity": "Visit Fort Kochi and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Chinese Fishing Nets",
+      "location": "Kochi",
+      "activity": "Visit Chinese Fishing Nets and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Mattancherry Palace",
+      "location": "Kochi",
+      "activity": "Visit Mattancherry Palace and explore its attractions and surroundings",
+      "cost": 20,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Jew Town",
+      "location": "Kochi",
+      "activity": "Visit Jew Town and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Marine Drive",
+      "location": "Kochi",
+      "activity": "Visit Marine Drive and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Kerala Kathakali Centre",
+      "location": "Kochi",
+      "activity": "Visit Kerala Kathakali Centre and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "Culture",
+      "time": "06:00 PM"
+    },
+    {
+      "name": "Hill Palace Museum",
+      "location": "Kochi",
+      "activity": "Visit Hill Palace Museum and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Culture",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Bolgatty Palace",
+      "location": "Kochi",
+      "activity": "Visit Bolgatty Palace and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Cherai Beach",
+      "location": "Kochi",
+      "activity": "Visit Cherai Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Kerala Folklore Museum",
+      "location": "Kochi",
+      "activity": "Visit Kerala Folklore Museum and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Culture",
+      "time": "11:00 AM"
+    }
+  ],
+  "Goa": [
+    {
+      "name": "Baga Beach",
+      "location": "Goa",
+      "activity": "Visit Baga Beach and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "Adventure",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Fort Aguada",
+      "location": "Goa",
+      "activity": "Visit Fort Aguada and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Calangute Beach",
+      "location": "Goa",
+      "activity": "Visit Calangute Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "location": "Goa",
+      "activity": "Visit Basilica of Bom Jesus and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "location": "Goa",
+      "activity": "Visit Dudhsagar Falls and explore its attractions and surroundings",
+      "cost": 800,
+      "type": "Nature",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Anjuna Flea Market",
+      "location": "Goa",
+      "activity": "Visit Anjuna Flea Market and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Chapora Fort",
+      "location": "Goa",
+      "activity": "Visit Chapora Fort and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Fontainhas",
+      "location": "Goa",
+      "activity": "Visit Fontainhas and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Palolem Beach",
+      "location": "Goa",
+      "activity": "Visit Palolem Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Reis Magos Fort",
+      "location": "Goa",
+      "activity": "Visit Reis Magos Fort and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "History",
+      "time": "02:00 PM"
+    }
+  ],
+  "Ooty": [
+    {
+      "name": "Botanical Garden",
+      "location": "Ooty",
+      "activity": "Visit Botanical Garden and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Ooty Lake",
+      "location": "Ooty",
+      "activity": "Visit Ooty Lake and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Adventure",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Doddabetta Peak",
+      "location": "Ooty",
+      "activity": "Visit Doddabetta Peak and explore its attractions and surroundings",
+      "cost": 20,
+      "type": "Sightseeing",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Rose Garden",
+      "location": "Ooty",
+      "activity": "Visit Rose Garden and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Nature",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Nilgiri Mountain Railway",
+      "location": "Ooty",
+      "activity": "Visit Nilgiri Mountain Railway and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "Sightseeing",
+      "time": "12:00 PM"
+    },
+    {
+      "name": "Tea Factory and Museum",
+      "location": "Ooty",
+      "activity": "Visit Tea Factory and Museum and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Culture",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Pykara Lake",
+      "location": "Ooty",
+      "activity": "Visit Pykara Lake and explore its attractions and surroundings",
+      "cost": 150,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Thread Garden",
+      "location": "Ooty",
+      "activity": "Visit Thread Garden and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Culture",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "St. Stephen's Church",
+      "location": "Ooty",
+      "activity": "Visit St. Stephen's Church and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Kamaraj Sagar Dam",
+      "location": "Ooty",
+      "activity": "Visit Kamaraj Sagar Dam and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "04:00 PM"
+    }
+  ],
+  "Wayanad": [
+    {
+      "name": "Edakkal Caves",
+      "location": "Wayanad",
+      "activity": "Visit Edakkal Caves and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Banasura Sagar Dam",
+      "location": "Wayanad",
+      "activity": "Visit Banasura Sagar Dam and explore its attractions and surroundings",
+      "cost": 40,
+      "type": "Sightseeing",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Soochipara Waterfalls",
+      "location": "Wayanad",
+      "activity": "Visit Soochipara Waterfalls and explore its attractions and surroundings",
+      "cost": 80,
+      "type": "Nature",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Pookode Lake",
+      "location": "Wayanad",
+      "activity": "Visit Pookode Lake and explore its attractions and surroundings",
+      "cost": 40,
+      "type": "Relaxation",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Chembra Peak",
+      "location": "Wayanad",
+      "activity": "Visit Chembra Peak and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Adventure",
+      "time": "07:00 AM"
+    },
+    {
+      "name": "Thirunelli Temple",
+      "location": "Wayanad",
+      "activity": "Visit Thirunelli Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Muthanga Wildlife Sanctuary",
+      "location": "Wayanad",
+      "activity": "Visit Muthanga Wildlife Sanctuary and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "Nature",
+      "time": "07:00 AM"
+    },
+    {
+      "name": "Kuruvadweep",
+      "location": "Wayanad",
+      "activity": "Visit Kuruvadweep and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Nature",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Wayanad Heritage Museum",
+      "location": "Wayanad",
+      "activity": "Visit Wayanad Heritage Museum and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "History",
+      "time": "01:00 PM"
+    },
+    {
+      "name": "Lakkidi View Point",
+      "location": "Wayanad",
+      "activity": "Visit Lakkidi View Point and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "05:00 PM"
+    }
+  ],
+  "Alleppey": [
+    {
+      "name": "Alappuzha Beach",
+      "location": "Alleppey",
+      "activity": "Visit Alappuzha Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Alappuzha Backwaters",
+      "location": "Alleppey",
+      "activity": "Visit Alappuzha Backwaters and explore its attractions and surroundings",
+      "cost": 700,
+      "type": "Sightseeing",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Pathiramanal Island",
+      "location": "Alleppey",
+      "activity": "Visit Pathiramanal Island and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Nature",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Krishnapuram Palace",
+      "location": "Alleppey",
+      "activity": "Visit Krishnapuram Palace and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Marari Beach",
+      "location": "Alleppey",
+      "activity": "Visit Marari Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Kuttanad",
+      "location": "Alleppey",
+      "activity": "Visit Kuttanad and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "Nature",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Ambalappuzha Temple",
+      "location": "Alleppey",
+      "activity": "Visit Ambalappuzha Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "International Coir Museum",
+      "location": "Alleppey",
+      "activity": "Visit International Coir Museum and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Culture",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Vembanad Lake",
+      "location": "Alleppey",
+      "activity": "Visit Vembanad Lake and explore its attractions and surroundings",
+      "cost": 400,
+      "type": "Adventure",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Mullakkal Temple",
+      "location": "Alleppey",
+      "activity": "Visit Mullakkal Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "06:00 PM"
+    }
+  ],
+  "Thiruvananthapuram": [
+    {
+      "name": "Padmanabhaswamy Temple",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Padmanabhaswamy Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Kovalam Beach",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Kovalam Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Napier Museum",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Napier Museum and explore its attractions and surroundings",
+      "cost": 20,
+      "type": "Culture",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Kuthiramalika Palace",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Kuthiramalika Palace and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Shanghumukham Beach",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Shanghumukham Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Poovar Island",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Poovar Island and explore its attractions and surroundings",
+      "cost": 600,
+      "type": "Adventure",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Kanakakkunnu Palace",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Kanakakkunnu Palace and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Thiruvananthapuram Zoo",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Thiruvananthapuram Zoo and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Nature",
+      "time": "09:30 AM"
+    },
+    {
+      "name": "Veli Tourist Village",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Veli Tourist Village and explore its attractions and surroundings",
+      "cost": 20,
+      "type": "Sightseeing",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Aazhimala Temple",
+      "location": "Thiruvananthapuram",
+      "activity": "Visit Aazhimala Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "07:00 AM"
+    }
+  ],
+  "Bengaluru": [
+    {
+      "name": "Lalbagh Botanical Garden",
+      "location": "Bengaluru",
+      "activity": "Visit Lalbagh Botanical Garden and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Nature",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Bengaluru Palace",
+      "location": "Bengaluru",
+      "activity": "Visit Bengaluru Palace and explore its attractions and surroundings",
+      "cost": 250,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Cubbon Park",
+      "location": "Bengaluru",
+      "activity": "Visit Cubbon Park and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "07:00 AM"
+    },
+    {
+      "name": "Visvesvaraya Museum",
+      "location": "Bengaluru",
+      "activity": "Visit Visvesvaraya Museum and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Culture",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "ISKCON Temple",
+      "location": "Bengaluru",
+      "activity": "Visit ISKCON Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Commercial Street",
+      "location": "Bengaluru",
+      "activity": "Visit Commercial Street and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Bannerghatta Biological Park",
+      "location": "Bengaluru",
+      "activity": "Visit Bannerghatta Biological Park and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Vidhana Soudha View",
+      "location": "Bengaluru",
+      "activity": "Visit Vidhana Soudha View and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "HAL Aerospace Museum",
+      "location": "Bengaluru",
+      "activity": "Visit HAL Aerospace Museum and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Ulsoor Lake",
+      "location": "Bengaluru",
+      "activity": "Visit Ulsoor Lake and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "06:00 PM"
+    }
+  ],
+  "Mysuru": [
+    {
+      "name": "Mysore Palace",
+      "location": "Mysuru",
+      "activity": "Visit Mysore Palace and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Chamundi Hills",
+      "location": "Mysuru",
+      "activity": "Visit Chamundi Hills and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Brindavan Gardens",
+      "location": "Mysuru",
+      "activity": "Visit Brindavan Gardens and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Nature",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Mysuru Zoo",
+      "location": "Mysuru",
+      "activity": "Visit Mysuru Zoo and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "St. Philomena's Church",
+      "location": "Mysuru",
+      "activity": "Visit St. Philomena's Church and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Devaraja Market",
+      "location": "Mysuru",
+      "activity": "Visit Devaraja Market and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Jaganmohan Palace Art Gallery",
+      "location": "Mysuru",
+      "activity": "Visit Jaganmohan Palace Art Gallery and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "Culture",
+      "time": "01:00 PM"
+    },
+    {
+      "name": "Karanji Lake",
+      "location": "Mysuru",
+      "activity": "Visit Karanji Lake and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Nature",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Railway Museum",
+      "location": "Mysuru",
+      "activity": "Visit Railway Museum and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Kukkarahalli Lake",
+      "location": "Mysuru",
+      "activity": "Visit Kukkarahalli Lake and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "06:00 AM"
+    }
+  ],
+  "Jaipur": [
+    {
+      "name": "Amber Fort",
+      "location": "Jaipur",
+      "activity": "Visit Amber Fort and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "History",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Hawa Mahal",
+      "location": "Jaipur",
+      "activity": "Visit Hawa Mahal and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Sightseeing",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "City Palace",
+      "location": "Jaipur",
+      "activity": "Visit City Palace and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Culture",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Jantar Mantar",
+      "location": "Jaipur",
+      "activity": "Visit Jantar Mantar and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Science",
+      "time": "01:00 PM"
+    },
+    {
+      "name": "Nahargarh Fort",
+      "location": "Jaipur",
+      "activity": "Visit Nahargarh Fort and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "History",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Jal Mahal Viewpoint",
+      "location": "Jaipur",
+      "activity": "Visit Jal Mahal Viewpoint and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Johari Bazaar",
+      "location": "Jaipur",
+      "activity": "Visit Johari Bazaar and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Albert Hall Museum",
+      "location": "Jaipur",
+      "activity": "Visit Albert Hall Museum and explore its attractions and surroundings",
+      "cost": 100,
+      "type": "Culture",
+      "time": "12:00 PM"
+    },
+    {
+      "name": "Patrika Gate",
+      "location": "Jaipur",
+      "activity": "Visit Patrika Gate and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Birla Mandir",
+      "location": "Jaipur",
+      "activity": "Visit Birla Mandir and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "06:00 PM"
+    }
+  ],
+  "Agra": [
+    {
+      "name": "Taj Mahal",
+      "location": "Agra",
+      "activity": "Visit Taj Mahal and explore its attractions and surroundings",
+      "cost": 1100,
+      "type": "History",
+      "time": "06:00 AM"
+    },
+    {
+      "name": "Agra Fort",
+      "location": "Agra",
+      "activity": "Visit Agra Fort and explore its attractions and surroundings",
+      "cost": 650,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Mehtab Bagh",
+      "location": "Agra",
+      "activity": "Visit Mehtab Bagh and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Nature",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Itimad-ud-Daulah",
+      "location": "Agra",
+      "activity": "Visit Itimad-ud-Daulah and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "Culture",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Akbar's Tomb",
+      "location": "Agra",
+      "activity": "Visit Akbar's Tomb and explore its attractions and surroundings",
+      "cost": 300,
+      "type": "History",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "location": "Agra",
+      "activity": "Visit Fatehpur Sikri and explore its attractions and surroundings",
+      "cost": 600,
+      "type": "History",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Kinari Bazaar",
+      "location": "Agra",
+      "activity": "Visit Kinari Bazaar and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Taj Museum",
+      "location": "Agra",
+      "activity": "Visit Taj Museum and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "01:00 PM"
+    },
+    {
+      "name": "Mughal Heritage Walk",
+      "location": "Agra",
+      "activity": "Visit Mughal Heritage Walk and explore its attractions and surroundings",
+      "cost": 400,
+      "type": "Culture",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Chini Ka Rauza",
+      "location": "Agra",
+      "activity": "Visit Chini Ka Rauza and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "02:00 PM"
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "India Gate",
+      "location": "Delhi",
+      "activity": "Visit India Gate and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "06:00 PM"
+    },
+    {
+      "name": "Red Fort",
+      "location": "Delhi",
+      "activity": "Visit Red Fort and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "History",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Qutub Minar",
+      "location": "Delhi",
+      "activity": "Visit Qutub Minar and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Humayun's Tomb",
+      "location": "Delhi",
+      "activity": "Visit Humayun's Tomb and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "Culture",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Lotus Temple",
+      "location": "Delhi",
+      "activity": "Visit Lotus Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "National Museum",
+      "location": "Delhi",
+      "activity": "Visit National Museum and explore its attractions and surroundings",
+      "cost": 20,
+      "type": "Culture",
+      "time": "12:00 PM"
+    },
+    {
+      "name": "Chandni Chowk",
+      "location": "Delhi",
+      "activity": "Visit Chandni Chowk and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Lodhi Garden",
+      "location": "Delhi",
+      "activity": "Visit Lodhi Garden and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Nature",
+      "time": "07:00 AM"
+    },
+    {
+      "name": "Jama Masjid",
+      "location": "Delhi",
+      "activity": "Visit Jama Masjid and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Dilli Haat",
+      "location": "Delhi",
+      "activity": "Visit Dilli Haat and explore its attractions and surroundings",
+      "cost": 30,
+      "type": "Shopping",
+      "time": "05:00 PM"
+    }
+  ],
+  "Mumbai": [
+    {
+      "name": "Gateway of India",
+      "location": "Mumbai",
+      "activity": "Visit Gateway of India and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Elephanta Caves",
+      "location": "Mumbai",
+      "activity": "Visit Elephanta Caves and explore its attractions and surroundings",
+      "cost": 600,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Marine Drive",
+      "location": "Mumbai",
+      "activity": "Visit Marine Drive and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "06:00 PM"
+    },
+    {
+      "name": "Chhatrapati Shivaji Museum",
+      "location": "Mumbai",
+      "activity": "Visit Chhatrapati Shivaji Museum and explore its attractions and surroundings",
+      "cost": 200,
+      "type": "Culture",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Siddhivinayak Temple",
+      "location": "Mumbai",
+      "activity": "Visit Siddhivinayak Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Juhu Beach",
+      "location": "Mumbai",
+      "activity": "Visit Juhu Beach and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Colaba Causeway",
+      "location": "Mumbai",
+      "activity": "Visit Colaba Causeway and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Sanjay Gandhi National Park",
+      "location": "Mumbai",
+      "activity": "Visit Sanjay Gandhi National Park and explore its attractions and surroundings",
+      "cost": 85,
+      "type": "Nature",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Bandra-Worli Sea Link View",
+      "location": "Mumbai",
+      "activity": "Visit Bandra-Worli Sea Link View and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "07:00 PM"
+    },
+    {
+      "name": "Dharavi Cultural Tour",
+      "location": "Mumbai",
+      "activity": "Visit Dharavi Cultural Tour and explore its attractions and surroundings",
+      "cost": 700,
+      "type": "Culture",
+      "time": "03:00 PM"
+    }
+  ],
+  "Manali": [
+    {
+      "name": "Hadimba Devi Temple",
+      "location": "Manali",
+      "activity": "Visit Hadimba Devi Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Culture",
+      "time": "09:00 AM"
+    },
+    {
+      "name": "Solang Valley",
+      "location": "Manali",
+      "activity": "Visit Solang Valley and explore its attractions and surroundings",
+      "cost": 500,
+      "type": "Adventure",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Old Manali",
+      "location": "Manali",
+      "activity": "Visit Old Manali and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "04:00 PM"
+    },
+    {
+      "name": "Vashisht Hot Springs",
+      "location": "Manali",
+      "activity": "Visit Vashisht Hot Springs and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Relaxation",
+      "time": "11:00 AM"
+    },
+    {
+      "name": "Manu Temple",
+      "location": "Manali",
+      "activity": "Visit Manu Temple and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "History",
+      "time": "02:00 PM"
+    },
+    {
+      "name": "Jogini Waterfall",
+      "location": "Manali",
+      "activity": "Visit Jogini Waterfall and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Nature",
+      "time": "08:00 AM"
+    },
+    {
+      "name": "Mall Road",
+      "location": "Manali",
+      "activity": "Visit Mall Road and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Shopping",
+      "time": "05:00 PM"
+    },
+    {
+      "name": "Naggar Castle",
+      "location": "Manali",
+      "activity": "Visit Naggar Castle and explore its attractions and surroundings",
+      "cost": 50,
+      "type": "History",
+      "time": "10:00 AM"
+    },
+    {
+      "name": "Beas River",
+      "location": "Manali",
+      "activity": "Visit Beas River and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Nature",
+      "time": "03:00 PM"
+    },
+    {
+      "name": "Nehru Kund",
+      "location": "Manali",
+      "activity": "Visit Nehru Kund and explore its attractions and surroundings",
+      "cost": 0,
+      "type": "Sightseeing",
+      "time": "09:00 AM"
+    }
+  ]
+}
